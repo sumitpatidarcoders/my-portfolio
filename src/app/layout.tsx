@@ -111,7 +111,9 @@ export default function RootLayout({
       jobTitle: "Full Stack Developer",
       sameAs: [
         "https://www.linkedin.com/in/sumit-patidar-a37912391/",
-        "https://www.instagram.com/sumit_patidar_062/"
+        "https://www.instagram.com/sumit_patidar_062/",
+        "https://github.com/sumitpatidarcoders",
+        
       ],
     }),
   }}
