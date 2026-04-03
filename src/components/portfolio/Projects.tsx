@@ -51,7 +51,7 @@ const projects: Project[] = [
     technologies: ["React.js"],
     category: "frontend",
     github: "https://github.com/sumitpatidar/weather-app",
-    liveDemo: "https://sarthiprivatelimited.netlify.app/",
+    liveDemo: "https://sarathiprivatelimited.netlify.app/ppppppppppppppppppppppp",
   },
 ];
 
