@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Sumit Patidar" }],
 
    verification: {
-     google: "IpdsUCkDGWtNySFzI8HxdA7hapPv4k-mZykFH7cNNM",
+     google: "2IpdsUCkDGWtNySFzI8HxdA7hapPv4k-mZykFH7cNNM",
      },
   openGraph: {
     title: "Sumit Patidar | Full Stack Developer",
@@ -113,7 +113,8 @@ export default function RootLayout({
         "https://www.linkedin.com/in/sumit-patidar-a37912391/",
         "https://www.instagram.com/sumit_patidar_062/",
         "https://github.com/sumitpatidarcoders",
-        
+        "https://www.facebook.com/sumit.paitdar",
+        "https://www.youtube.com/@SumitPatidar-c3z",
       ],
     }),
   }}
