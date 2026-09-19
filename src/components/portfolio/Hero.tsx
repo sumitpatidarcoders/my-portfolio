@@ -222,7 +222,7 @@ export default function Hero() {
                 {/* Image */}
                 <div className="absolute inset-4 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-2xl">
                   <Image
-                    src="/images/sumitphoto2.png"
+                    src="/images/sumitpatidar2.png"
                     alt="Sumit Patidar - Full Stack Developer"
                     fill
                     className="object-cover"
