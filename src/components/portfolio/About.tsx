@@ -63,7 +63,7 @@ export default function About() {
             <div className="relative z-10">
               <div className="relative w-full max-w-md mx-auto aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/images/sumitpatidar2.jpg"
+                  src="/images/sumitpatidar2.png"
                   alt="Sumit Patidar - Full Stack Developer"
                   fill
                   className="object-cover"
